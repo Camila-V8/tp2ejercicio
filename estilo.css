@@ -51,8 +51,8 @@ p{
 	min-height: 800px;
 	background-color: green;
 	background: 
-	url(..imagen1.PNG) left top no-repeat,
-	url(..imagen2.PNG) right top no-repeat;
+	url(..imagen1.png) left top no-repeat,
+	url(..imagen2.png) right top no-repeat;
 }
 
 #columnas{
